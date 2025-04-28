@@ -45,6 +45,12 @@ export const ALL_LANGUAGES: Record<string, LanguageInfo> = {
         alternativeLanguageTag: 'es-ES',
         content: es
     },
+    'br': {
+        name: 'Brazil',
+        displayName: 'Portugues',
+        alternativeLanguageTag: 'pt-BR',
+        content: br
+    },
     'it': {
         name: 'Italian',
         displayName: 'Italiano',
